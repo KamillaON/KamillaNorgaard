@@ -22,7 +22,7 @@
 /* a. General Styles
 /* ------------------------------------------------------------------ */
 
-body { background: #c2ab9d; }
+body { background: #9c7b6a; }
 
 /* ------------------------------------------------------------------ */
 /* b. Header Styles
@@ -58,9 +58,9 @@ header .banner {
 
 header .banner-text { width: 100%; }
 header .banner-text h1 {
-   font: 90px/1.1em 'opensans-bold', sans-serif;
+   font: 90px/1.1em font-family: 'Montserrat', sans-serif;
    color: #333;
-   letter-spacing: -2px;
+   letter-spacing: 10px;
    margin: 0 auto 18px auto;
    text-shadow: 0px 1px 3px rgba(0, 0, 0, .8);
 }
