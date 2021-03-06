@@ -311,7 +311,7 @@ ul#nav li.current a { color: #d6b4ac; }
   	border-radius: 3px;
 }
 .bars li em {
-	font: 15px 'opensans-bold', sans-serif;
+	font-family: 'Montserrat', sans-serif;
    color: #313131;
 	text-transform: uppercase;
    letter-spacing: 2px;
