@@ -22,7 +22,7 @@
 /* a. General Styles
 /* ------------------------------------------------------------------ */
 
-body { background: #9c7b6a; }
+body { background: #d6b4ac; }
 
 /* ------------------------------------------------------------------ */
 /* b. Header Styles
@@ -33,7 +33,7 @@ header {
    height: 800px;
    min-height: 500px;
    width: 100%;
-   background: #161415 url(../images/beige.png) no-repeat top center;
+   background: #484e5e no-repeat top center;
    background-size: cover !important;
 	-webkit-background-size: cover !important;
    text-align: center;
@@ -58,14 +58,17 @@ header .banner {
 
 header .banner-text { width: 100%; }
 header .banner-text h1 {
-   font: 90px/1.1em font-family: 'Montserrat', sans-serif;
-   color: #333;
+  font-family: 'Montserrat', sans-serif;
+  font-size: 90px;
+  line-height: 1.1em;
+   color: #fff;
    letter-spacing: 10px;
    margin: 0 auto 18px auto;
    text-shadow: 0px 1px 3px rgba(0, 0, 0, .8);
 }
 header .banner-text h3 {
-   font: 18px/1.9em 'librebaskerville-regular', serif;
+  font-family: 'Montserrat', sans-serif;
+
    color: #A8A8A8;
    margin: 0 auto;
    width: 70%;
@@ -73,7 +76,8 @@ header .banner-text h3 {
 }
 header .banner-text h3 span,
 header .banner-text h3 a {
-   color: #333;
+   color: #fff;
+   font-size: 16px;
 }
 header .banner-text hr {
    width: 60%;
@@ -86,7 +90,7 @@ header .banner-text hr {
 header .social {
    margin: 24px 0;
    padding: 0;
-   font-size: 30px;
+   font-size: 20px;
    text-shadow: 0px 1px 2px rgba(0, 0, 0, .8);
 }
 header .social li {
@@ -94,7 +98,7 @@ header .social li {
    margin: 0 15px;
    padding: 0;
 }
-header .social li a { color: #333; }
+header .social li a { color: #fff; }
 header .social li a:hover { color: #11ABB0; }
 
 /* scrolldown link */
@@ -103,13 +107,13 @@ header .scrolldown a {
    bottom: 30px;
    left: 50%;
    margin-left: -29px;
-   color: #fff;
+   color: ##d6b4ac;
    display: block;
    height: 42px;
    width: 42px;
    font-size: 42px;
    line-height: 42px;
-   color: #fff;
+   color: #d6b4ac;
    border-radius: 100%;
 
    -webkit-transition: all .3s ease-in-out;
@@ -179,7 +183,7 @@ ul#nav li a {
 }
 
 ul#nav li a:active { background-color: transparent !important; }
-ul#nav li.current a { color: #F06000; }
+ul#nav li.current a { color: #d6b4ac; }
 
 
 /* ------------------------------------------------------------------ */
@@ -971,7 +975,7 @@ footer .social-links li {
     margin: 0;
     padding: 0;
     margin-left: 42px;
-    color: #F06000;
+    color: #9aada9;
 }
 
 footer .social-links li:first-child { margin-left: 0; }
