@@ -22,7 +22,7 @@
 /* a. General Styles
 /* ------------------------------------------------------------------ */
 
-body { background: red; }
+body { background: #c2ab9d; }
 
 /* ------------------------------------------------------------------ */
 /* b. Header Styles
@@ -187,7 +187,7 @@ ul#nav li.current a { color: #F06000; }
 /* ------------------------------------------------------------------ */
 
 #about {
-   background: #2B2B2B;
+   background: #d6b4ac;
    padding-top: 96px;
    padding-bottom: 66px;
    overflow: hidden;
