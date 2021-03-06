@@ -421,10 +421,12 @@ ul#nav li.current a { color: #d6b4ac; }
 #portfolio {
    background: #ebeeee;
    padding-top: 90px;
-   padding-bottom: 60px;
+   padding-bottom: 400px;
 }
 #portfolio h1 {
-   font: 15px/24px 'opensans-semibold', sans-serif;
+  font-family: 'Montserrat', sans-serif;
+  font-weight: 700;
+  font-size: 30px;
    text-transform: uppercase;
    letter-spacing: 1px;
    text-align: center;
