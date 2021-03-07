@@ -289,7 +289,7 @@ ul#nav li.current a { color: #d6b4ac; }
 #resume .date {
    font-family: 'Montserrat', sans-serif;
    font-size: 12px;
-   font-weight: bolder;
+   font-weight: bold;
    margin-top: 6px;
 }
 
@@ -330,7 +330,7 @@ ul#nav li.current a { color: #d6b4ac; }
 
    margin: 0;
    padding-right: 24px;
-  	background: #313131;
+  	background: #dbb;
    display: inline-block;
   	height: 42px;
    line-height: 42px;
