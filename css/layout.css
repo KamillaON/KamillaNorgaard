@@ -254,7 +254,8 @@ ul#nav li.current a { color: #d6b4ac; }
 #resume a:hover, #resume a:focus { color: #313131; }
 
 #resume h1 {
-   font: 18px/24px 'opensans-bold', sans-serif;
+  font-family: 'Montserrat', sans-serif;
+  font-size: 18px;
    text-transform: uppercase;
    letter-spacing: 1px;
 }
@@ -263,7 +264,8 @@ ul#nav li.current a { color: #d6b4ac; }
    padding-bottom: 6px;
 }
 #resume h3 {
-   font: 25px/30px 'opensans-bold', sans-serif;
+  font-family: 'Montserrat', sans-serif;
+  font-weight: bold;
 }
 
 #resume .header-col { padding-top: 9px; }
@@ -285,7 +287,9 @@ ul#nav li.current a { color: #d6b4ac; }
    margin-left: 5px;
 }
 #resume .date {
-   font: 15px/24px 'opensans-regular', sans-serif;
+   font-family: 'Montserrat', sans-serif;
+   font-size: 12px;
+   font-weight: bolder;
    margin-top: 6px;
 }
 
